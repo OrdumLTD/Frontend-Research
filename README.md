@@ -2,7 +2,10 @@
 
 ## Deliverable
 
-⚠️ TODO: add after making issues
+- [1.1 Tech stack decisions](https://github.com/OrdumLTD/Frontend-Research/issues/1)
+- [1.2 Wallet extensions integration](https://github.com/OrdumLTD/Frontend-Research/issues/2)
+- [1.3 Phala Fat Contract interaction research](https://github.com/OrdumLTD/Frontend-Research/issues/3)
+- [1.4 KILT integration](https://github.com/OrdumLTD/Frontend-Research/issues/4)
 
 ### 1.1 Tech stack decisions
 
